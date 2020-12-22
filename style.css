@@ -80,7 +80,7 @@ Banner
 */
 
 .img-container {
-  background-image: url(/images/banner.jpg);
+  background-image: url(images/banner.jpg);
   height: 82vh;
   background-position: center;
   background-repeat: no-repeat;
@@ -118,7 +118,7 @@ h2 {
   padding: 10px;
   font-weight: bold;
   border-radius: 30px;
-  color: #fff;
+  color: white;
   border: 4px solid #fff;
   text-decoration: none;
   transition: background-color 0.2s ease-out, color 0.2s ease-out;
